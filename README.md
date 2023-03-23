@@ -19,7 +19,7 @@ Some of Momen's notable honors include being featured in conferences such as **B
 - eWAPTXv2 (eLearn Web Application Penetration Tester Extreme)
 
 ### 🌟 Featured Projects
-1. [API Security Empire](https://github.com/Cyber-Guy1/API-SecurityEmpire) -) - API security testing and auditing cheat sheets.
+1. [API Security Empire](https://github.com/Cyber-Guy1/API-SecurityEmpire) - API security testing and auditing cheat sheets.
 
 
 ### 📫 Get in touch
