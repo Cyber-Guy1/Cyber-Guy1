@@ -20,6 +20,7 @@ Some of Momen's notable honors include being featured in conferences such as **B
 
 ### 🌟 Featured Projects
 1. [API Security Empire](https://github.com/Cyber-Guy1/API-SecurityEmpire) - API security testing and auditing cheat sheets.
+2. [WCE](https://github.com/Cyber-Guy1/WCE) - Command and exfiltrate via TCP window flag with zero detection. Weaponize your post-exploitation arsenal!
 
 
 ### 📫 Get in touch
