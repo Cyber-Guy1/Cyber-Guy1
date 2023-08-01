@@ -7,7 +7,7 @@
 ### 📜 Brief Career Summary
 Momen Eldawakhly, also known as CyberGuy, is a senior penetration tester at **Samurai Digital Security Ltd** and red team engineer with a strong track record in security research and red teaming. He has been recognized by major companies such as Google, Yahoo, Microsoft, Yandex, Redhat, AT&T, Oneplus, SecureBug, Starbucks, Comcast, the United Nations, IBM, Nokia, and Sony for discovering critical and high severity vulnerabilities in their assets. Momen is also dedicated to sharing his knowledge with the cybersecurity community, and has given talks and sessions at various conferences and events.
 
-### 🥇 Honors
+### 🥇 Contributions
 Some of Momen's notable honors include being featured in conferences such as **Black Hat**, **The Hack Summit**, **Wild West Hackin' Fest**, **IEEE**, **Hacken**, and **GDSC**. He has also discovered several zero days during his offensive security research, as listed in the publications section of his profile.
 
 ### 🏆 Certifications
